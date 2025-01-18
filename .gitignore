@@ -1,0 +1,7 @@
+model/dataset
+model/modelWeight.h5
+model/trainedModel.json
+server/image.png
+client/logo.png
+client/plants.mp4
+.env
